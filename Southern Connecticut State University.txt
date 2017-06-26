@@ -1,0 +1,7 @@
+Education;
+Established: 1893;
+President: Joe Bertolino;
+Students: 8496;
+Location: New Haven, Connecticut, United States;
+Campus: Urban, 168 acres;
+Website: www.southernct.edu;

@@ -1,0 +1,7 @@
+Education;
+Established: 1889;
+President: Dr.Elsa Nuñez;
+Students: 5447;
+Location: Willimantic, Connecticut, United States;
+Campus: Suburban, 182 acres;
+Website: www.easternct.edu;

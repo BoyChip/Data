@@ -1,0 +1,7 @@
+Education;
+Established: 1903;
+President: Dr. John B. Clark;
+Students: 5952;
+Location: Danbury, Connecticut, USA;
+Campus: Urban, 398 acres;
+Website: www.wcsu.edu;

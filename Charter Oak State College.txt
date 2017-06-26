@@ -1,0 +1,7 @@
+Education;
+Established: 1973;
+President: Ed Klonoski;
+Students: 2278;
+Location: New Britain, Connecticut, USA;
+Campus: unknown;
+Website: CharterOak.edu;
